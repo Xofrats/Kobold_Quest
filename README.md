@@ -1,6 +1,6 @@
 # Kobold Quest
 
-A 2D adventure game built with [Godot 4](https://godotengine.org/).
+A 2D-style adventure game with 3D voxel characters, built with [Godot 4](https://godotengine.org/).
 
 ## Getting started
 
@@ -17,7 +17,7 @@ A 2D adventure game built with [Godot 4](https://godotengine.org/).
 ## Project layout
 
 ```
-assets/      sprites, audio, fonts
+assets/      models, sprites, audio, fonts
 scenes/      levels, player, ui
 scripts/     GDScript files
 ```
